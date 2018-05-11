@@ -1,0 +1,6 @@
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\Merkezi Egilim Ölcüleri\Merkezi Egilim Ölcüleri\bin\Debug\Merkezi Egilim Ölcüleri.exe.config
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\Merkezi Egilim Ölcüleri\Merkezi Egilim Ölcüleri\bin\Debug\Merkezi Egilim Ölcüleri.exe
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\Merkezi Egilim Ölcüleri\Merkezi Egilim Ölcüleri\bin\Debug\Merkezi Egilim Ölcüleri.pdb
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\Merkezi Egilim Ölcüleri\Merkezi Egilim Ölcüleri\obj\Debug\Merkezi Egilim Ölcüleri.csprojResolveAssemblyReference.cache
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\Merkezi Egilim Ölcüleri\Merkezi Egilim Ölcüleri\obj\Debug\Merkezi Egilim Ölcüleri.exe
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\Merkezi Egilim Ölcüleri\Merkezi Egilim Ölcüleri\obj\Debug\Merkezi Egilim Ölcüleri.pdb

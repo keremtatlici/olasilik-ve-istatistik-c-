@@ -1,0 +1,13 @@
+c:\users\asus\documents\visual studio 2015\Projects\olasilikveistatistik9\olasilikveistatistik9\bin\Debug\olasilikveistatistik9.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\olasilikveistatistik9\olasilikveistatistik9\bin\Debug\olasilikveistatistik9.exe
+c:\users\asus\documents\visual studio 2015\Projects\olasilikveistatistik9\olasilikveistatistik9\bin\Debug\olasilikveistatistik9.pdb
+c:\users\asus\documents\visual studio 2015\Projects\olasilikveistatistik9\olasilikveistatistik9\obj\Debug\olasilikveistatistik9.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\olasilikveistatistik9\olasilikveistatistik9\obj\Debug\olasilikveistatistik9.exe
+c:\users\asus\documents\visual studio 2015\Projects\olasilikveistatistik9\olasilikveistatistik9\obj\Debug\olasilikveistatistik9.pdb
+C:\Users\Shaka Brah\Desktop\Olasilik-Ve-Istatistik-Kodlari\olasilikveistatistik9\olasilikveistatistik9\bin\Debug\olasilikveistatistik9.exe.config
+C:\Users\Shaka Brah\Desktop\Olasilik-Ve-Istatistik-Kodlari\olasilikveistatistik9\olasilikveistatistik9\bin\Debug\olasilikveistatistik9.exe
+C:\Users\Shaka Brah\Desktop\Olasilik-Ve-Istatistik-Kodlari\olasilikveistatistik9\olasilikveistatistik9\bin\Debug\olasilikveistatistik9.pdb
+C:\Users\Shaka Brah\Desktop\Olasilik-Ve-Istatistik-Kodlari\olasilikveistatistik9\olasilikveistatistik9\obj\Debug\olasilikveistatistik9.csprojResolveAssemblyReference.cache
+C:\Users\Shaka Brah\Desktop\Olasilik-Ve-Istatistik-Kodlari\olasilikveistatistik9\olasilikveistatistik9\obj\Debug\olasilikveistatistik9.csproj.CoreCompileInputs.cache
+C:\Users\Shaka Brah\Desktop\Olasilik-Ve-Istatistik-Kodlari\olasilikveistatistik9\olasilikveistatistik9\obj\Debug\olasilikveistatistik9.exe
+C:\Users\Shaka Brah\Desktop\Olasilik-Ve-Istatistik-Kodlari\olasilikveistatistik9\olasilikveistatistik9\obj\Debug\olasilikveistatistik9.pdb

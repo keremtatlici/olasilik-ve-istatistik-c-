@@ -1,0 +1,19 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.pdb
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.exe.config
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.exe
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.pdb
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.exe
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.pdb
+C:\Users\Emre İÇÖZ\Documents\Visual Studio 2015\Projects\BasitRastgeleÖrnekleme\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.csprojResolveAssemblyReference.cache
+C:\Users\Shaka Brah\Desktop\olasılık ve istatistik kodları\1\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.exe.config
+C:\Users\Shaka Brah\Desktop\olasılık ve istatistik kodları\1\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.exe
+C:\Users\Shaka Brah\Desktop\olasılık ve istatistik kodları\1\BasitRastgeleÖrnekleme\bin\Debug\BasitRastgeleÖrnekleme.pdb
+C:\Users\Shaka Brah\Desktop\olasılık ve istatistik kodları\1\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.csprojResolveAssemblyReference.cache
+C:\Users\Shaka Brah\Desktop\olasılık ve istatistik kodları\1\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.csproj.CoreCompileInputs.cache
+C:\Users\Shaka Brah\Desktop\olasılık ve istatistik kodları\1\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.exe
+C:\Users\Shaka Brah\Desktop\olasılık ve istatistik kodları\1\BasitRastgeleÖrnekleme\obj\Debug\BasitRastgeleÖrnekleme.pdb
